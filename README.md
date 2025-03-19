@@ -10,9 +10,7 @@
 
 4. putty 를 연결한다. ( serial , COM3 => open )
 
-5. ~네트워크프로토콜/과제(캡스톤)/user-바로가기/ 생성한 폴더 (ex. 3th_setting )
-   / BUILD / ARQEntity.bin 
-   을 D 드라이브에 복붙한다.
+5. cygwin/home/user/ 생성한 폴더 (ex. 3th_setting ) / BUILD / ARQEntity.bin 을 D 드라이브에 복붙한다.
 
 6. putty 화면에 node : 가 보인다.
 
