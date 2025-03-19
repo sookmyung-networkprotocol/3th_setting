@@ -4,7 +4,10 @@
 
 1. cygwin/home/user 안에 원하는 이름의 폴더를 만들고 (ex. 3th_setting) 해당 폴더 안에 소스코드를 푼다.  
 
-2. cygwin 에서 소스 코드 경로로 이동하고 make를 입력한다. (소스코드 경로에 BUILD 폴더 생성) 
+2. cygwin 에서 소스 코드 경로로 이동하고 make를 입력한다. (컴파일이 되면서 소스코드 경로에 BUILD 폴더 생성된다.)
+  - cygwin 에서 현재 위치 알기 : pwd
+  - cygwin 에서 현재 목록 출력 : ls
+  - cygwin 에서 이동 : cd 
 
 3. usb를 연결한다. -> D 드라이브가 뜬다.
 
